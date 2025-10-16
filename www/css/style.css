@@ -43,7 +43,7 @@
         left:10px; right:10px;
     }
     Button{
-        background-color: blue;
+        color: blue;
         font-family: Times;
     }
     #btnA {
