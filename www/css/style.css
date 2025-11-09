@@ -1,6 +1,7 @@
 /**/
     body{
-        background-color: skyblue;
+        background: linear-gradient(135deg, #89f7fe, #66a6ff);
+        transition: background 1s;
     }
     #minuteStr {
         color: #ff0000;
